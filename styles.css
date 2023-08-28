@@ -12,10 +12,3 @@
 	display: flex;
 	flex-wrap: wrap-reverse;
 	}
-.size {
-		height: 100px;
-	width: 100px;
-	object-fit: contain;
-	
-	
-}
