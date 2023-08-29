@@ -10,7 +10,6 @@
 	}
 img {
 	border-radius: 10px;
-/* 	display: flex; */
 	margin: 10px;
-	flex-wrap: wrap;
+	align-item: center;
 }
