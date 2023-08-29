@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 #animal-photos {
+	padding: 10px;
 	background-color: grey;
 	border-radius: 5px;
 }
@@ -7,3 +8,9 @@
 	text-align: center;
 	padding: 20px;
 	}
+img {
+	border-radius: 10px;
+/* 	display: flex; */
+	margin: 10px;
+	flex-wrap: wrap;
+}
